@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning life... <img=JimmyCraft_sq.jpg><br>
+- 🌱 I’m currently learning life...  <img src="JimmyCraft_sq.jpg" width=200><br>
 
 <!--
 **jmysu/jmysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
