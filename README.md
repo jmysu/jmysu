@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning life... <br>
+- 🌱 I’m currently learning everything as the Earth student... <br>
 
 <!--
 **jmysu/jmysu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=jmysu&show_icons=true&theme=dark)  <img src="JimmyCraft_sq.jpg" width=128>
+<img src="JimmyCraft_sq.jpg" width=128>
